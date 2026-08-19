@@ -22,7 +22,11 @@ The app combines focused work sessions with simple mood tracking and supportive 
 
 ## Screenshots
 
-Screenshots will be added soon.
+![Home Screen](screenshots/aurafocus.jpeg)
+
+![Focus Timer](screenshots/aurafocus%20%282%29.jpeg)
+
+![Journey Screen](screenshots/aurafocus%20%283%29.jpeg)
 
 ## Future Features
 
