@@ -53,3 +53,14 @@ AuraFocus is still a work in progress, but building it has helped me turn an ide
 AuraFocus aims to create a space where students can focus on their goals without ignoring their emotional well-being.
 
 **One focused session at a time.**
+
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/aurafocus.jpeg)
+
+### Focus Timer
+![Focus Timer](screenshots/aurafocus%20%282%29.jpeg)
+
+### Journey Screen
+![Journey Screen](screenshots/aurafocus%20%283%29.jpeg)
